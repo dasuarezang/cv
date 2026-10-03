@@ -1,6 +1,7 @@
-# dasuarezang.github.io
+# cv (redirecciones)
 
-Portada del dominio. Redirige a https://dasuarezang.github.io/cv/ (el CV, en el repositorio `cv`) y declara el
-icono del sitio: Google solo lee el icono de la portada del dominio, no el de una subcarpeta como `/cv/`.
+El CV vive ahora en https://dasuarezang.github.io/ (repositorio `dasuarezang.github.io`).
 
-Los archivos de icono son los mismos que los del repositorio `cv`. Si cambia el icono, hay que actualizarlos en los dos.
+Este repositorio solo existe para que las direcciones antiguas, `https://dasuarezang.github.io/cv/...`, sigan funcionando:
+redirigen a la misma ruta sin `/cv`. Conserva además las vistas previas (imágenes `og-*.jpg`), el PDF de la carta y los
+archivos de verificación de Google Search Console de la propiedad antigua.
